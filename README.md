@@ -5,8 +5,8 @@
 - QR code Generator - Completed
 - Login Sign up Page (React basics)- Completed
 - Tic Tac Toe (React Basics) - Completed
-
-
+- Image Gallery - Completed
+- Launch Page - Completed
 
 
 All Codes are showcase of my practice with the concepts the help of tutorials.
