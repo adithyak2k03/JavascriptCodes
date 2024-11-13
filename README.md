@@ -9,4 +9,5 @@
 - Launch Page - Completed
 
 
-All Codes are showcase of my practice with the concepts the help of tutorials.
+All of these projects showcase my practice with various concepts, guided by tutorials.
+
